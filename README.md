@@ -35,16 +35,16 @@
 1. このリポジトリをクローンまたはダウンロード
 2. Unity Hub で Unity 6.0 以上のバージョンで開く
 3. `Package Manager` で下記を確認・インポート
-    - XR Interaction Toolkit 3.0.8（Starter Assets / Device Simulator も必要なら Import）
-    - XR Plugin Management を有効化し、OpenXR を Standalone / Android 環境で有効
+    - XR Interaction Toolkit 
+    - XR Plugin Management を有効化
 4. 必要に応じて `.meta` のみに含まれるサードパーティアセットを同バージョンの実体アセットで復元
 
 ---
 ## 📦 技術仕様 / Requirements
 
 - Unity 6.0 (6000.0.50f1)
-- XR Interaction Toolkit 3.0.8+（Starter Assets 推奨）
-- XR Plugin Management（OpenXR を有効）
+- XR Interaction Toolkit 3.0.8+
+- XR Plugin Management（OpenXR）
 
 ---
 ## 📂 プロジェクト構成 / Project Structure
